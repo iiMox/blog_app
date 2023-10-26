@@ -1,3 +1,5 @@
+"use client";
+
 import { useSelector } from "../store/store";
 import { getPostState } from "../store/slices/postSlice";
 import {
