@@ -1,6 +1,32 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+The Blog Application is deployed on the folloying link: https://blog-application-next.netlify.app/
+
+### Prerequisites
+
+Before you begin, make sure you have Node.js and npm (Node Package Manager) installed on your system.
+
+### Installing
+
+1. Clone this repository to your local machine.
+
+```bash
+git clone https://github.com/your-username/blog_app.git
+```
+
+2. Navigate to the project directory.
+
+ ```bash
+cd blog_app
+```
+
+3. Install project dependencies.
+
+```bash
+npm install
+```
+
+## Running the Development Server
 
 First, run the development server:
 
